@@ -104,7 +104,7 @@ We'll join "Client-1" to the domain< (mydomain.com); however, we must change the
       <p align="center">
     <img src="https://i.imgur.com/BlO0rjn.png" height="80%" width="80%" alt="select network inferface client 1"/> </p>
     </br>
-    Select 'Custom' radio button for DNS server so that you can now connect to DC-1 private IP address.
+    Select 'Custom' radio button for DNS server so you can now connect to DC-1 private IP address.
   <p align="center">
   <img src="https://i.imgur.com/Rcjik7d.png" height="80%" width="80%" alt="select customer dns"/></p>
   </br>
